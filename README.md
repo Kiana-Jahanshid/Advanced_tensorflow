@@ -18,7 +18,7 @@ python Advanced_tensorflow_....ipynb
 
 |   | MNIST  | CIFAR10  | Titanic  |
 | :-------------: | :-------------: | :-------------: | :-------------: |
-| Test accuracy   | 0.9933  | 0.773 | 0.84  |
+| Test accuracy   | 0.9933  | 0.773 | 0.86  |
 
 
 
